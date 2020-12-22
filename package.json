@@ -2,7 +2,7 @@
   "name": "csv2array_regular",
   "version": "1.0.0",
   "description": "csv to array",
-  "main": "index.js",
+  "main": "csv2array_regular.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
